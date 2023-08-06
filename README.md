@@ -5,7 +5,7 @@ A fork of the orginal Mark and Recall that will transport the vehicle you are co
 Logic for transporting vehicles and creatures was taken from bdew's Highway Portals mod. Thanks bdew!
 
 
-Note: A new property has been added to 
-# The minimum quality level for a rune to be usable for
-# marking or recalling while embarked on a vehicle.
-minUsableQualityVehicle=65.0
+Note: A new property has been added to the MarkAndRecallVechicles.properties file
+The minimum quality level for a rune to be usable for
+marking or recalling while embarked on a vehicle.
+minUsableQualityForVehicle=65.0
